@@ -47,3 +47,4 @@ urlpatterns = [
         name="logout"
     ),
 ]
+
